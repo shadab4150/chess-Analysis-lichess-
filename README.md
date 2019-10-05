@@ -2,6 +2,7 @@
 
 * This Repo contains my analysis and findings about chess dataset.
 * Like how many moves average chess games last.
-* Any coorelation between various attributs.
+* Any coorelation between various attributes.
 * Heatmap of chess moves on a chess 8x8 board.
 * Which squares see more action.
+* Any Upsets in the game.

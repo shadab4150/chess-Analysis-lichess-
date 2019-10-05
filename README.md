@@ -7,3 +7,5 @@
 * Heatmap of chess moves on a chess 8x8 board.
 * Which squares see more action.
 * Any Upsets in the game.
+
+* To get a quick look at chess dataset click here -> [**link**](https://shadab4150.github.io/chess-EDA-lichess-/chessprofilereport.html)

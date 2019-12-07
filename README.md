@@ -8,6 +8,6 @@
 * Which squares see more action.
 * Any Upsets in the game.
 
-* To get a quick look at chess dataset click here -> [**link**](https://shadab4150.github.io/chess-EDA-lichess-/chessprofilereport.html)
+* To get a quick look at chess dataset click here -> [**link**](https://shadab4150.github.io/chess-Analysis-lichess-/chessprofilereport.html)
 
-* For look at the project page click here --> [**chess full project**](https://shadab4150.github.io/chess-EDA-lichess-/chess_EDAfinal3.html)
+* For look at the project page click here --> [**chess full project**](https://shadab4150.github.io/chess-Analysis-lichess-/chess_EDAfinal3.html)
